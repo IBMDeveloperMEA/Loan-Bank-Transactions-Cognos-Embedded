@@ -5,7 +5,7 @@
 - Login/Sign Up for [IBM Cloud](https://cloud.ibm.com/registration?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Jul2021-analyzeloantransactionswithcognosembeddedonwatsonstudio-eventid-60d30158fd948362e7c19b44-global-devadvgrp-dubai-hybrid-workshop-dubai) <br>
 - [Slides]() <br>
 - Workshop [Replay]() <br>
-- [Survey](www.surveygizmo.com/s3/6083679/c11a45c047b4?uid=60d30158fd948362e7c19b44) (We really appreciate any feedback :D) <br><br>
+- [Survey](https://www.surveygizmo.com/s3/6083679/c11a45c047b4?uid=60d30158fd948362e7c19b44) (We really appreciate any feedback :D) <br><br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
 - Dasboard Result [HERE](https://eu-gb.dataplatform.cloud.ibm.com/dashboards/247fbdaf-c089-42eb-b502-856e67f05e00/view/6e27dd2412ec3ff561e7b1e407cd2b037c33735db7bb810a80d77b495a337497a86a4690c82d420bdb190c64f7ea475e9b)
@@ -183,7 +183,7 @@ In this tutorial, we detailed how to use some of the features in Cognos Embedded
 - Login/Sign Up for [IBM Cloud](https://cloud.ibm.com/registration?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Jul2021-analyzeloantransactionswithcognosembeddedonwatsonstudio-eventid-60d30158fd948362e7c19b44-global-devadvgrp-dubai-hybrid-workshop-dubai) <br>
 - [Slides]() <br>
 - Workshop [Replay]() <br>
-- [Survey](www.surveygizmo.com/s3/6083679/c11a45c047b4?uid=60d30158fd948362e7c19b44) (We really appreciate any feedback :D) <br><br>
+- [Survey](https://www.surveygizmo.com/s3/6083679/c11a45c047b4?uid=60d30158fd948362e7c19b44) (We really appreciate any feedback :D) <br><br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
 
