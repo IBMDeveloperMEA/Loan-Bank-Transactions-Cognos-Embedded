@@ -93,21 +93,21 @@ There are multiple way to create visualizations in **Cognos Embedded Dashbaord**
 
   <img width="1280" alt="Screen Shot 2021-07-13 at 12 04 59 PM" src="https://user-images.githubusercontent.com/15332386/125415684-0eb418b9-52fe-43dd-9f75-40fd3582fc1c.png">
 
- Now notice that the **Loan Amount** values are summed (This is done by default). We can change it to average instead of sum. On the top you will see 3 different tabs: **Filters**, **Fields** and **Properties**. These tabs help us to customize our visualizations. Click on **Fields**, and then on the `...` icon next to **Loam Amount** under the **y-axis**. Choose **Summarize** and then **Average**.
+ Now notice that the **Loan Amount** values are summed (This is done by default). We can change it to average instead of sum. On the top you will see 3 different tabs: **Filters**, **Fields** and **Properties**. These tabs help us to customize our visualizations. Click on **Fields**, and then on the `...` icon next to **Loan Amount** under the **y-axis**. Choose **Summarize** and then **Average**.
 
   <img width="843" alt="Screen Shot 2021-07-13 at 12 10 01 PM" src="https://user-images.githubusercontent.com/15332386/125416601-21df22b1-a2a8-4ccf-aa69-df0b1c4dcc84.png">
  
-Let's change this visualization to a pie chart. Above the visualization there is button and next to it you see the type of the current chart that you are using. Click on it, and click on **All Visalizations**. Select **Pie**. Now we have a pie chart instead of a line graph.
+Let's change this visualization to a pie chart. Above the visualization there is button and next to it you see the type of the current chart that you are using. Click on it, and click on **All Visualizations**. Select **Pie**. Now we have a pie chart instead of a line graph.
   
 <img width="946" alt="Screen Shot 2021-07-13 at 12 29 57 PM" src="https://user-images.githubusercontent.com/15332386/125419481-a0ea79fb-18da-4728-8e48-262ff637b363.png">
   
 We can see that loans amounts are the highest for **business**, **repairs** and **other** purposes, and are lowest **new cars** and used **cards**
   
-Now let's add a title to this visulization. Next to the button that allows us to change the visualization type, there is a button that allows to to add a title. Click on it and give a title to your visualization.
+Now let's add a title to this visualization. Next to the button that allows us to change the visualization type, there is a button that allows to to add a title. Click on it and give a title to your visualization.
 
 <img width="840" alt="Screen Shot 2021-07-13 at 12 35 58 PM" src="https://user-images.githubusercontent.com/15332386/125419957-639eea7a-93b0-4f0e-800e-4f54de99a6f0.png">
   
-### Creating the second visuzalization
+### Creating the Second Visualization
 This time we will use another way to create a visualization. From the left side, click on the **Visualization** button, drag and drop **Stacked bar**
 
 <img width="879" alt="Screen Shot 2021-07-13 at 12 43 29 PM" src="https://user-images.githubusercontent.com/15332386/125421173-7e09fe9e-2a4d-4769-b6e4-613fbbc64899.png">
@@ -121,15 +121,15 @@ Obviously it will be empty since we didn't choose the fields yet. Drag and drop 
   
 Here for example we can see that for people who have a real estate and applied for a loan with duration of more than 15 days show a risk. For people who have savings insurance, the risks starts for a duration that is longer than 20 days.
   
-### Creating third visualization
+### Creating the Third Visualization
   
-Let's repeat the same process but this time let's choose a **Line** visuzalization. Drag and drop **LoanDuration** to the **y-axis**, **Risk** to **Color** and **LoanAmount** to **x-axis**.
+Let's repeat the same process but this time let's choose a **Line** visualization. Drag and drop **LoanDuration** to the **y-axis**, **Risk** to **Color** and **LoanAmount** to **x-axis**.
   
 <img width="827" alt="Screen Shot 2021-07-13 at 1 42 53 PM" src="https://user-images.githubusercontent.com/15332386/125430451-9c8f321a-c473-4af1-8828-a8e2066aaebd.png">
   
 This initial graph layout is too compact, and a warning icon is displayed in the upper-right corner. The warning states that multiple items had to be clipped and that we should apply a filter to show less data.
 
-Make the suggested adjustment by clicking the menu `... icon for the **LoanAmount** field, then enabling the Auto-group option.
+Make the suggested adjustment by clicking the menu `...` icon for the **LoanAmount** field, then enabling the Auto-group option.
   
 <img width="269" alt="Screen Shot 2021-07-13 at 1 46 09 PM" src="https://user-images.githubusercontent.com/15332386/125430810-3efac65d-2942-4147-8eb6-42f930337cf4.png">
   
@@ -165,7 +165,7 @@ Now are only counting the *Risk* value. This visualizations tells us that the cu
 <img width="735" alt="Screen Shot 2021-07-13 at 2 13 21 PM" src="https://user-images.githubusercontent.com/15332386/125434945-2b5ee928-7698-41f9-98e3-f4d7b9342f2d.png">
 
   
-### Saving and Sharing the Dashbaord
+### Saving and Sharing the Dashboard
   
 Once you're done click the save button at the very top and then click on the share icon. This generates a link that can be shared with other people to see and interact with your dashboard.
 
