@@ -30,7 +30,7 @@ Banks prefer to not give loans to everyone, they want to know the customer that 
 ## Learning Objectives
   
 In this tutorial, you will learn how to use Cognos Embedded on Watson Studio to gain insights into loan transaction data from a bank.
-We will focus on the role of the business analyst and see how Cognos Embedded can be used to gain insights into many visualization using different predictors/fields and information that can affect the risk like loan amount, loan length, credits saving and owning a property.
+We will focus on the role of the business analyst and see how Cognos Embedded can be used to gain insights into many visualization using different fields and information that can affect the risk like loan amount, loan durations, savings and owning a property.
   
 ## Prerequisites
 To complete the tutorial, you need an [IBM Cloud account](https://cloud.ibm.com/registration?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Jul2021-analyzeloantransactionswithcognosembeddedonwatsonstudio-eventid-60d30158fd948362e7c19b44-global-devadvgrp-dubai-hybrid-workshop-dubai). You can get a free trial account, which gives you access to IBM Cloud and Watson Studio.
