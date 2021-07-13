@@ -42,13 +42,19 @@ Completing this tutorial should take about 30 minutes.
   
 Download the asset **german_credit_score.csv**
   
-### Create an Object Storage service. 
+### Create an Object Storage Service. 
 In IBM Cloud main page, you can either type **object storage** in the search field, or click on **Create resource** and then search for **object storage**. Select the **Lite plan** and click **Create**.
   
 <img width="1280" alt="Screen Shot 2021-07-13 at 11 31 50 AM" src="https://user-images.githubusercontent.com/15332386/125410517-00231780-e3ce-11eb-8035-a5e2ff4f27c4.png">
+
+### Create Cognos Dashboard Embedded Service
+Repeat the same step as the previous one, but this time search for Watson Studio. Select the **Lite plan** and choose any **location** you want.
+
+<img width="1280" alt="Screen Shot 2021-07-13 at 2 59 03 PM" src="https://user-images.githubusercontent.com/15332386/125440864-59c089fc-3589-411e-8b23-e5c2e4f68a3e.png">
+
   
-### Create Watson Studio
-Repeat the same step as the previous one, but this time search for Watso Studio. Select the **Lite plan** and choose any **location** you want.
+### Create Watson Studio Service
+Repeat the same step again, but this time search for Watson Studio. Select the **Lite plan** and choose any **location** you want.
  
 <img width="1280" alt="Screen Shot 2021-07-13 at 11 35 23 AM" src="https://user-images.githubusercontent.com/15332386/125410927-73c52480-e3ce-11eb-88b2-e815a27aa3cc.png">
   
@@ -67,7 +73,7 @@ Inside your project, choose the **Assets** tab and click **browse** to upload th
 
 <img width="1280" alt="Screen Shot 2021-07-13 at 11 43 53 AM" src="https://user-images.githubusercontent.com/15332386/125412632-25b12080-e3d0-11eb-9a1a-5ae84eba2151.png">
   
-### Add Cognos Embedded Dashbaord
+### Add Cognos Dashbaord
 Click on the blue **Add to project button** and choose **Dashboard**. Give it a name and choose the cognos dashboard embedded service that you create it earlier at the beginning.
   
 <img width="1280" alt="Screen Shot 2021-07-13 at 11 48 41 AM" src="https://user-images.githubusercontent.com/15332386/125413156-8ea3c563-016e-43fd-aa4b-7fb065ec2bf7.png">
@@ -89,7 +95,7 @@ Now you should see the file under selected sources. Click on it to see all its f
   
 ### Creating First Visualization
 
-There are multiple way to create visualizations in **Cognos Embedded Dashbaord**. First one is by draggind and dropping the field that we want to work with into the canvas. Drag and drop **Loan Purpose** and then **Loan Amont** (Make sure to drag Loan Amount into Loan Purpose since we want to use these fields together).In this case the service will autimatically choose a suitable visualization. 
+There are multiple way to create visualizations in **Cognos Dashbaord Embedded**. First one is by draggind and dropping the field that we want to work with into the canvas. Drag and drop **Loan Purpose** and then **Loan Amont** (Make sure to drag Loan Amount into Loan Purpose since we want to use these fields together).In this case the service will autimatically choose a suitable visualization. 
 
   <img width="1280" alt="Screen Shot 2021-07-13 at 12 04 59 PM" src="https://user-images.githubusercontent.com/15332386/125415684-0eb418b9-52fe-43dd-9f75-40fd3582fc1c.png">
 
@@ -176,7 +182,7 @@ Enable the share to anyone who has the link and share the generated link.
 <img width="1079" alt="Screen Shot 2021-07-13 at 2 31 39 PM" src="https://user-images.githubusercontent.com/15332386/125437455-87d13b41-a58f-4ab9-9611-9eb3f8196bb2.png">
 
 ### Summary
-In this tutorial, we detailed how to use some of the features in Cognos Embedded Dashboard to help visualize loan transactions. You learned how to create and customize charts and graphs to help explain credit risk, gains insights and have a better understanding of loan transactions.
+In this tutorial, we detailed how to use some of the features in **Cognos Dashboard  Embedded** on **Watson Studio** to help visualize loan transactions. You learned how to create and customize charts and graphs to help explain credit risk, gains insights and have a better understanding of loan transactions.
 
 ## Workshop Resources
 
