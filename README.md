@@ -93,7 +93,7 @@ There are multiple way to create visualizations in **Cognos Embedded Dashbaord**
 
   <img width="1280" alt="Screen Shot 2021-07-13 at 12 04 59 PM" src="https://user-images.githubusercontent.com/15332386/125415684-0eb418b9-52fe-43dd-9f75-40fd3582fc1c.png">
 
- Now notice that the *Loan Amount** values are summed (This is done by default). We can change it to average instead of sum. On the top you will see 3 different tabs: **Filters**, **Fields** and **Properties**. These tabs help us to customize our visualizations. Click on **Fields**, and then on the *...* icon next to **Loam Amount** under the **y-axis**. Choose **Summarize** and then **Average**.
+ Now notice that the **Loan Amount** values are summed (This is done by default). We can change it to average instead of sum. On the top you will see 3 different tabs: **Filters**, **Fields** and **Properties**. These tabs help us to customize our visualizations. Click on **Fields**, and then on the `...` icon next to **Loam Amount** under the **y-axis**. Choose **Summarize** and then **Average**.
 
   <img width="843" alt="Screen Shot 2021-07-13 at 12 10 01 PM" src="https://user-images.githubusercontent.com/15332386/125416601-21df22b1-a2a8-4ccf-aa69-df0b1c4dcc84.png">
  
@@ -129,7 +129,7 @@ Let's repeat the same process but this time let's choose a **Line** visuzalizati
   
 This initial graph layout is too compact, and a warning icon is displayed in the upper-right corner. The warning states that multiple items had to be clipped and that we should apply a filter to show less data.
 
-Make the suggested adjustment by clicking the menu *...* icon for the **LoanAmount** field, then enabling the Auto-group option.
+Make the suggested adjustment by clicking the menu `... icon for the **LoanAmount** field, then enabling the Auto-group option.
   
 <img width="269" alt="Screen Shot 2021-07-13 at 1 46 09 PM" src="https://user-images.githubusercontent.com/15332386/125430810-3efac65d-2942-4147-8eb6-42f930337cf4.png">
   
