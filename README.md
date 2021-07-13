@@ -73,7 +73,7 @@ Inside your project, choose the **Assets** tab and click **browse** to upload th
 
 <img width="1280" alt="Screen Shot 2021-07-13 at 11 43 53 AM" src="https://user-images.githubusercontent.com/15332386/125412632-25b12080-e3d0-11eb-9a1a-5ae84eba2151.png">
   
-### Add Cognos Dashbaord
+### Add Dashboard
 Click on the blue **Add to project button** and choose **Dashboard**. Give it a name and choose the cognos dashboard embedded service that you create it earlier at the beginning.
   
 <img width="1280" alt="Screen Shot 2021-07-13 at 11 48 41 AM" src="https://user-images.githubusercontent.com/15332386/125413156-8ea3c563-016e-43fd-aa4b-7fb065ec2bf7.png">
