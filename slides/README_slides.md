@@ -69,7 +69,7 @@ All Developers interested in analytics and data science are welcome to attend th
 👩‍💻Resources <br />
 - Survey - https://ibm.biz/survey-cognos
 - GitHub Repository - https://http://ibm.biz/cognos-emb-ws
-- Workshop Slides - 
+- Workshop Slides - https://ibmdevelopermea.github.io/Loan-Bank-Transactions-Cognos-Embedded/
 - Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
 
 +++ {"slideshow": {"slide_type": "slide"}}
