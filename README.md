@@ -4,7 +4,7 @@
 
 - Login/Sign Up for [IBM Cloud](https://cloud.ibm.com/registration?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Jul2021-analyzeloantransactionswithcognosembeddedonwatsonstudio-eventid-60d30158fd948362e7c19b44-global-devadvgrp-dubai-hybrid-workshop-dubai) <br>
 - [Slides](https://ibmdevelopermea.github.io/Loan-Bank-Transactions-Cognos-Embedded/) <br>
-- Workshop [Replay]() <br>
+- Workshop [Replay](https://www.crowdcast.io/e/analyze-loan) <br>
 - [Survey](https://www.surveygizmo.com/s3/6083679/c11a45c047b4?uid=60d30158fd948362e7c19b44) (We really appreciate any feedback :D) <br><br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
@@ -187,8 +187,8 @@ In this tutorial, we detailed how to use some of the features in **Cognos Dashbo
 ## Workshop Resources
 
 - Login/Sign Up for [IBM Cloud](https://cloud.ibm.com/registration?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Jul2021-analyzeloantransactionswithcognosembeddedonwatsonstudio-eventid-60d30158fd948362e7c19b44-global-devadvgrp-dubai-hybrid-workshop-dubai) <br>
-- [Slides]() <br>
-- Workshop [Replay]() <br>
+- [Slides](https://ibmdevelopermea.github.io/Loan-Bank-Transactions-Cognos-Embedded/)
+- Workshop [Replay](https://www.crowdcast.io/e/analyze-loan) <br>
 - [Survey](https://www.surveygizmo.com/s3/6083679/c11a45c047b4?uid=60d30158fd948362e7c19b44) (We really appreciate any feedback :D) <br><br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
